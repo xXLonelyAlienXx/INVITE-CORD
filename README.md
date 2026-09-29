@@ -1,5 +1,5 @@
 # INVITE-CORD
-Discord tool that uses Discord's API to show that the server invite contains and who sent it
+Discord tool that uses Discord's API to show what the server contains, who sent it, and ETC
 
 ### Install on Linux (fed)
 ```
