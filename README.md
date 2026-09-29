@@ -9,7 +9,5 @@ sudo dnf-get install python3
 ### Usage Tool
 ```
 git clone https://github.com/xXLonelyAlienXx/INVITE-CORD.git
-cd GhostTrack
-pip3 install -r requirements.txt
 python3 !NVITE-CORD.py
 ```
