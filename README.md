@@ -1,13 +1,18 @@
 # INVITE-CORD
 Discord tool that uses Discord's API to show that the server invite contains and who sent it
 
-### Instalation on Linux (fed)
+### Install on Linux (fed)
 ```
-sudo dnf-get install git
-sudo dnf-get install python3
+sudo dnf install git
+sudo dnf install python3
 ```
-### Usage Tool
+### Install Python on Windows
+```
+winget install Python.Python.3.14
+```
+### Use Tool
 ```
 git clone https://github.com/xXLonelyAlienXx/INVITE-CORD.git
+cd INVITE-CORD
 python3 !NVITE-CORD.py
 ```
