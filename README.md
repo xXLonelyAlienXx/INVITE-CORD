@@ -14,5 +14,5 @@ winget install Python.Python.3.14
 ```
 git clone https://github.com/xXLonelyAlienXx/INVITE-CORD.git
 cd INVITE-CORD
-python3 !NVITE-CORD.py
+python3 '!NVITE-CORD.py'
 ```
