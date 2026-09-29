@@ -1,3 +1,6 @@
+# <<This tool is used for educational purpose Only>>
+# <<This tools has been made by xXLonelyAlienXx>>
+
 
 import json
 import requests
@@ -220,14 +223,13 @@ def menu():
 ║╚═╝╚═╝  ╚═══╝  ╚═══╝  ╚═╝   ╚═╝   ╚══════╝     ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═════╝ ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 
--Made by RPGK / CeeCee / L0wl1f3
- {SUX-CORD INVITE SCRAPE TOOL}
+-Made by xXLonelyAlienXx
 
-[1] Full Scrape
-[2] Inviter Scrape
-[3] Server Only Scrape
+[1] -Full 
+[2] -Inviter only
+[3] -Server Only 
 
-[0] Piss Off  --exit
+[0] --exit
 """)
     print(f'<What is this guild?>')
     choice = input(f'└───➤')
@@ -253,6 +255,10 @@ def menu():
         clear()
         menu()
 
+
+#------------------------------------------------------------------------------------------------------Run
+if __name__ == "__main__":
+    menu()
 
 #------------------------------------------------------------------------------------------------------Run
 if __name__ == "__main__":
