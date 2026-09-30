@@ -16,3 +16,8 @@ git clone https://github.com/xXLonelyAlienXx/INVITE-CORD.git
 cd INVITE-CORD
 python3 '!NVITE-CORD.py'
 ```
+### Updates/Changes
+```
+\9-30-26\ small change has been made since the API doesn't use "brand_primary_color" because of this it has been removed 
+a small but almost unnoticeable change
+```
